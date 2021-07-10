@@ -1,0 +1,335 @@
+1625830960727	geckodriver	INFO	Listening on 127.0.0.1:54149
+1625830964684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileuoTmi4"
+1625830969759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1625830984049	Marionette	INFO	Listening on port 54157
+1625830986038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625830991562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625831190342	Marionette	INFO	Stopped listening on port 54157
+5831168697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileeSEDr9"
+1625831173109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625831182227	Marionette	INFO	Listening on port 54249
+1625831182516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625831186492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625831228693	geckodriver	INFO	Listening on 127.0.0.1:54309
+1625831231741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileAxcJWy"
+1625831232912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625831241702	Marionette	INFO	Listening on port 54317
+1625831241896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625831251726	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.JavaScri
+pt error: , linJavaScripte  error: , line 0: TypeError: NetworkError when attempting to fetch res0: ource.
+TypeError: NetworkError when attempting to fJeavaScript error: , line 0: TypeError: NetworkError when attemptitch resource.
+ng to fetch rJavesoaScript errorurce.: ,
+ line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 7748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625837473814	Marionette	INFO	Stopped listening on port 54317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ate of 'uninitialized'.
+JavaScript error: https://www.youtube.com/s/desktop/03f86491/jsbin/spf.vflset/spf.js, line 28: NS_ERROR_NOT_INITIALIZED: 
+1625832011737	Marionette	INFO	Stopped listening on port 54621625832014141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileA2wWss"
+1625832016902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625832023603	Marionette	INFO	Listening on port 54694
+1625832024120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625832028463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625832090571	Marionette	INFO	Stopped listening on port 54694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625834990261	geckodriver	INFO	Listening on 127.0.0.1:54980
+1625834993251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileo7p2XH"
+1625834999443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625835009645	Marionette	INFO	Listening on port 54988
+1625835010021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625835020678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625835078121	Marionette	INFO	Stopped listening on port 54988
+1625835096218	geckodriver	INFO	Listening on 127.0.0.1:55057
+1625835099991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileiC78vp"
+1625835103959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625835111717	Marionette	INFO	Listening on port 55065
+1625835112065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625835116425	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625835239432	Marionette	INFO	Stopped listening on port 55065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625835339148	geckodriver	INFO	Listening on 127.0.0.1:55134
+1625835342181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileIPi1hQ"
+1625835343370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625835351373	Marionette	INFO	Listening on port 55142
+1625835351873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625835356752	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 4720, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625835419569	Marionette	INFO	Stopped listening on port 55142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625835451521	geckodriver	INFO	Listening on 127.0.0.1:55204
+1625835454651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileAc7KMm"
+1625835457442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625835464087	Marionette	INFO	Listening on port 55212
+1625835464374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625835472318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 2900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625835645469	Marionette	INFO	Stopped listening on port 55212
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625835697624	geckodriver	INFO	Listening on 127.0.0.1:55283
+1625835700749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofilewYYW5N"
+1625835702652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625835709593	Marionette	INFO	Listening on port 55291
+1625835709739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625835713680	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625835776273	Marionette	INFO	Stopped listening on port 55291
+1625836384463	geckodriver	INFO	Listening on 127.0.0.1:55360
+1625836388084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileU3V8Vf"
+1625836391585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625836403832	Marionette	INFO	Listening on port 55368
+1625836403918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625836407512	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625836496678	Marionette	INFO	Stopped listening on port 55368
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileibtHCO"
+1625836496756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625836503655	Marionette	INFO	Listening on port 55443
+1625836504138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625836508840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625836622378	Marionette	INFO	Stopped listening on port 55443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625837134858	geckodriver	INFO	Listening on 127.0.0.1:55802
+1625837138668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileBnY9Py"
+1625837143870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625837165772	Marionette	INFO	Listening on port 55810
+1625837167153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625837175616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625837230320	Marionette	INFO	Stopped listening on port 55810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625837237184	geckodriver	INFO	Listening on 127.0.0.1:55893
+1625837240616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofilevplTWS"
+1625837244949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625837253177	Marionette	INFO	Listening on port 55901
+1625837253485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625837258389	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625837283697	Marionette	INFO	Stopped listening on port 55901
+1625837359169	geckodriver	INFO	Listening on 127.0.0.1:55960
+1625837362122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofile3MyMOJ"
+1625837363193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625837370100	Marionette	INFO	Listening on port 55968
+1625837370567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625837387056	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625837450233	Marionette	INFO	Stopped listening on port 55968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625910797059	geckodriver	INFO	Listening on 127.0.0.1:53140
+1625910800279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofile0iYnbg"
+1625910802735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625910816237	Marionette	INFO	Listening on port 53148
+1625910817961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625910824238	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1652: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/browser.js, line 7927: uncaught exception: undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1625913779112	Marionette	INFO	Stopped listening on port 53148
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+88, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625911792881	Marionette	INFO	Stopped listening on port 53280
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625911934042	geckodriver	INFO	Listening on 127.0.0.1:58124
+1625911937629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileYCQ56d"
+1625911944643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625911963745	Marionette	INFO	Listening on port 58132
+1625911965048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625911980549	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 3636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625912026707	Marionette	INFO	Stopped listening on port 58132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625912029467	geckodriver	INFO	Listening on 127.0.0.1:49971
+1625912034334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileF6caFD"
+1625912038747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625912049245	Marionette	INFO	Listening on port 49979
+1625912049466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625912054158	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 8220, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625912151252	geckodriver	INFO	Listening on 127.0.0.1:49990
+1625912157228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofiletJYvjl"
+1625912163076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625912172183	Marionette	INFO	Listening on port 64375
+1625912172436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625912177582	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625912323281	Marionette	INFO	Stopped listening on port 64375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625912323686	geckodriver	INFO	Listening on 127.0.0.1:64446
+1625912326779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileK6wYOp"
+1625912328493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625912334956	Marionette	INFO	Listening on port 64454
+1625912335166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625912340549	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 2276, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625913147275	Marionette	INFO	Stopped listening on port 64454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625913151250	geckodriver	INFO	Listening on 127.0.0.1:64605
+1625913154506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileNxkyGW"
+1625913159253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625913171846	Marionette	INFO	Listening on port 64614
+1625913172116	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625913177802	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 9328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625913431513	Marionette	INFO	Stopped listening on port 64614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ (new Error("", "(unknown module)"))
+1625913283456	Marionette	INFO	Listening on port 64712
+1625913284208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625913289958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625913737549	Marionette	INFO	Stopped listening on port 64712
+5913443887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofile8zhvgy"
+1625913448866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625913457996	Marionette	INFO	Listening on port 64814
+1625913458509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625913463298	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625913737611	Marionette	INFO	Stopped listening on port 64814
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625913752822	geckodriver	INFO	Listening on 127.0.0.1:64897
+1625913759234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileaMLFP8"
+1625913770263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1625913783005	Marionette	INFO	Listening on port 64905
+1625913783178	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625913789572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625914021207	Marionette	INFO	Stopped listening on port 64905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625914705660	geckodriver	INFO	Listening on 127.0.0.1:60705
+1625914708730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKBARG~1\\AppData\\Local\\Temp\\rust_mozprofileJgroND"
+1625914714794	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 8296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625914737773	Marionette	INFO	Listening on port 60713
+1625914738275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625914744882	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1625914814103	Marionette	INFO	Stopped listening on port 60713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
